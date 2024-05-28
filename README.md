@@ -1,8 +1,6 @@
 # Pandas-Analysis
 
 
-Background
-
 Assuming that I have become the Chief Data Scientist for my city's school district. The request is to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 The raw data given are every student's math and reading scores, as well as various information on the schools they attend. The final report will include each of the following:
