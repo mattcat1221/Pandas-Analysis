@@ -1,4 +1,4 @@
-# Pandas-Analysis
+# Pandas-Challenge
 
 
 Assuming that I have become the Chief Data Scientist for my city's school district. The request is to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
