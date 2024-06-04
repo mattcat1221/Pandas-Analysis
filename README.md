@@ -1,19 +1,40 @@
-# Pandas-Challenge
+# Pandas Analysis
+![MIT](https://img.shields.io/badge/License-MIT-blue)
 
 
-Assuming that I have become the Chief Data Scientist for my city's school district. The request is to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
-The raw data given are every student's math and reading scores, as well as various information on the schools they attend. The final report will include each of the following:
+## Description
+Manipulate Pandas DataFrames to analyze school and standardized test data.
 
-District Summary
-School Summary
-Top 5 Performing Schools (By % Overall Passing)
-Bottom 5 Performing Schools (By % Overall Passing)
-Scores by Grade (9th to 12th)
-Math scores
-Reading scores
-Scores by different categories
-School Spending
-School Size
-School Type
-Analysis
+![app_image](mockup.png)
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+
+- [Contact](#contact)
+
+## Installation
+Pandas and Python, Jupyter Notebook
+
+## Usage
+Run the Jupyter Notebook to get the summary information.
+
+## Credits
+Catherine Matthews
+
+## License
+MIT
+
+## Features
+It provides summary data
+
+
+
+## Contact
+If there are any questions of concerns, I can be reached at:
+##### [github: mattcat1221](https://github.com/mattcat1221)
+##### [email: caseyvmatthews@gmail.com](mailto:caseyvmatthews@gmail.com)
