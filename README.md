@@ -14,7 +14,7 @@ Manipulate Pandas DataFrames to analyze school and standardized test data.
 - [Credits](#credits)
 - [License](#license)
 - [Features](#features)
-
+- [Analysis](#analysis)
 - [Contact](#contact)
 
 ## Installation
@@ -32,7 +32,13 @@ MIT
 ## Features
 It provides summary data
 
+## Analysis 
+### Summary Analysis
+We obtained student count, school budget, test scores for reading and math from 15 schools in a district.
+Out of 39,170 students, I found a avarage passing math score of 78.99, a average reading score of 81.88.  The overall passing student was 65.17%. 
 
+- I noticed that charter schools out perform district schools in both overall reading and math scores for each grade. 
+- I also noticed that the school budget and per student spending does not neccesarily correlate to higher scores.
 
 ## Contact
 If there are any questions of concerns, I can be reached at:
